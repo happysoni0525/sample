@@ -1,1 +1,5 @@
-hello~~~ 
+hello~~~
+
+한줄추가
+
+git add.해보려고~  
